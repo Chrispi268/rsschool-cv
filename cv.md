@@ -44,13 +44,13 @@
 
 
 ## ACADEMIC HISTORY
-**Minsk State Linguistic University, 21 Zakharova str., Minsk, 220015, Belarus**
+**1. Minsk State Linguistic University, 21 Zakharova str., Minsk, 220015, Belarus**
 #### ENGLISH LANGUAGE DEPARTMENT, BRITISH ABD AMERICAN LITERATURE
 * *Graduated in 2019*
 * *English – major*
 * *Spanish – minor*
 
-**IT Academy Stormnet, 5 Koshevogo str., Minsk, 220015, Belarus**
+**2. IT Academy Stormnet, 5 Koshevogo str., Minsk, 220015, Belarus**
 #### HTML/CSS/JAVASCRIPT
 * *The training has been successfully accomplished in 2019 (summer)*
 * *My Portfolio is Here: https://github.com/Chrispi268*
