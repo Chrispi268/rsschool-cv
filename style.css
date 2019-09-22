@@ -1,0 +1,95 @@
+body,html {
+    padding:0;
+    margin:0;
+    height: 100%;
+}
+
+@font-face {
+    font-family: nexa;
+    src: url(Nexa-Black.otf);
+}
+
+.content-CV {
+    overflow-y: scroll;
+    height: 100%;
+    max-width: 1024px;
+    margin: 0 auto;
+}
+
+.block-left {
+    padding-left: 20px;
+    position: relative;
+    background-image: url(bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+div.myImage {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+img#myImage {
+    border: 5px solid white;
+}
+
+h1.txt-myName {
+    font-size: 50px;
+    font-family: nexa;
+    font-weight: bold;
+    text-align: center;
+    color: white;
+}
+
+h4.txt-paragraphHeadW {
+    margin-top: 30px;
+    font-size: 32px;
+    font-family: nexa;
+    color: white;
+}
+
+.txt-allParagraphsW,
+.list-coreStrengths {
+    font-style: italic;
+    font-size: 20px;
+    font-family: arial;
+    color: white;
+}
+
+a.link {
+    color: rgb(21, 94, 6);
+}
+
+div.block-right {
+    padding-left: 20px;
+}
+
+h4.txt-paragraphHeadB {
+    margin-top: 30px;
+    font-size: 32px;
+    font-family: nexa;
+}
+
+.txt-allParagraphs {
+    font-style: italic;
+    font-size: 20px;
+    font-family: arial;
+}
+
+span.txt-bold {
+    font-style: normal;
+    font-weight: bold;
+}
+
+.list-uni,
+.list-trainigs,
+.list-interests {
+    font-style: italic;
+    font-size: 16px;
+    font-family: arial;
+}
+
+li {
+    list-style-type: square;
+}
